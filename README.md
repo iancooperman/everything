@@ -27,13 +27,13 @@ Seeking a software engineering role in a work environment with opportunities for
 
 ## Leadership Experience
 **Warner Center Toastmasters**
-*Secretary: July 2022-July 2023*
+#### Secretary: July 2022-July 2023
 - Took detailed meeting minutes for monthly executive commitee meetings.
-*Member: July 2021-Present*
-- **Accolades:** Rookie of the Year, Best Speaker (3 times), Best Table Topic Speaker (2 times), Best Evaluator
+#### Member: July 2021-Present
 - Grown as an individual regarding being comfortable with speaking in crowds.
 - Developed the skills to talk to leadership about professional activities.
 - Improved in abilities to explain complex topics to less-experienced personel.
+- **Accolades:** Rookie of the Year, Best Speaker (3 times), Best Table Topic Speaker (2 times), Best Evaluator
 
 ## Projects
 **Fabflix (Netflix Clone)**
