@@ -4,6 +4,8 @@
 - **Location:** 91367
 - **Email:** ian.pl.cooperman@gmail.com
 - **Phone** Available upon request
+- **LinkedIn**: [www.linkedin.com/in/ian-pl-cooperman/](https://www.linkedin.com/in/ian-pl-cooperman/)
+- **GitHub**: [github.com/iancooperman](https://github.com/iancooperman)
 
 ## Summary
 Seeking a software engineering role in a work environment with opportunities for growth in machine learning. A dedicated IT support technician with over two years of experience at LAUSD, possessing a strong background in software development, machine learning, and various programming languages. Proven ability to lead teams, manage projects, and deliver high-quality results.
