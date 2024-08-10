@@ -72,8 +72,8 @@ Seeking a software engineering role in a work environment with opportunities for
 - Recognized for outstanding work in volunteering.
 
 ## Skills
-- **Programming Languages:** Python, JavaScript, Java, C#, PowerShell, Bash
-- **Tools & Technologies:** Git/GitHub, VS Code, Remedy, Unity, AWS EC2, Pandoc, Google Workspace, Windows (10, 11), Linux
+- **Programming Languages:** Python, JavaScript, Java, C#, PowerShell, Bash, SQL (including MySQL & SQLite)
+- **Tools & Technologies:** Git/GitHub, VS Code, Remedy, Unity, AWS EC2, Pandoc, Google Workspace, Windows (10, 11), Linux, Docker
 - **Soft Skills:** Leadership, Teamwork, Problem-solving
 
 ## Interests
