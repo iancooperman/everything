@@ -1,9 +1,9 @@
 # Ian Cooperman
 
 ## Contact Information
-- **Location:** 91367
-- **Email:** ian.pl.cooperman@gmail.com
-- **Phone** Available upon request
+- **Location**: Los Angeles, CA
+- **Email**: ian.pl.cooperman@gmail.com
+- **Phone**: Available upon request
 - **LinkedIn**: [www.linkedin.com/in/ian-pl-cooperman/](https://www.linkedin.com/in/ian-pl-cooperman/)
 - **GitHub**: [github.com/iancooperman](https://github.com/iancooperman)
 
