@@ -25,6 +25,13 @@ Seeking a software engineering role in a work environment with opportunities for
 - Performed asset management of organization-owned devices in Remedy.
 - Wrote internal tools in Google Apps Script to aid in inventory asset tracking.
 
+**Technical Writer**
+*Kite*
+*July 2019 - October 2019*
+- Authored detailed Python tutorials covering foundational programming tasks, such as array manipulation with NumPy and list operations, aimed at beginner to intermediate coders.
+- Managed content updates and revisions on GitHub, ensuring high-quality, accurate instructional material.
+- Conducted peer reviews of tutorial submissions, enhancing the clarity and educational value of content across the platform.
+
 ## Leadership Experience
 **Warner Center Toastmasters**
 #### Secretary: July 2022-July 2023
@@ -68,9 +75,6 @@ Seeking a software engineering role in a work environment with opportunities for
 - **Programming Languages:** Python, JavaScript, Java, C#, PowerShell, Bash
 - **Tools & Technologies:** Git/GitHub, VS Code, Remedy, Unity, AWS EC2, Pandoc, Google Workspace, Windows (10, 11), Linux
 - **Soft Skills:** Leadership, Teamwork, Problem-solving
-
-## Achievements
-- 
 
 ## Interests
 - **Cooking:** Experienced in making various exotic dishes like Pad See Ew and Chana Masala.
