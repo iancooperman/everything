@@ -86,4 +86,4 @@ Seeking a software engineering role in a work environment with opportunities for
 - **Machine Learning:** Active participation in machine learning club meetings. Developed low-level understanding of various ML techniques.
 - **Video Game Development:** Gained experience in Unity and C# through UCI Video Game Development Club activities. First opportunity to work within a shared codebase/repository with individuals in diverse diciplines to achieve a common goal.
 - **Large Language Models:** Early adopter of exploring use-cases for large language models in various projects.
-- Language-learning: Maintaining a 320+ -day streak on Duolingo, learning Spanish.
+- **Language-learning**: Maintaining a 365+ -day streak on Duolingo, learning Spanish.
