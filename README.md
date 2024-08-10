@@ -3,19 +3,19 @@
 ## Contact Information
 - **Location:** 91367
 - **Email:** ian.pl.cooperman@gmail.com
-- **Phone** available upon request
+- **Phone** Available upon request
 
 ## Summary
 Seeking a software engineering role in a work environment with opportunities for growth in machine learning. A dedicated IT support technician with over two years of experience at LAUSD, possessing a strong background in software development, machine learning, and various programming languages. Proven ability to lead teams, manage projects, and deliver high-quality results.
 
 ## Education
-**College**
-*UC Irvine*
+### B.S. Computer Science
+*University of California, Irvine*
 - **GPA:** 3.85
 - **Clubs:** Video Game Development Club, Machine Learning Club
 
 ## Work Experience
-**IT Support Technician**  
+### IT Support Technician  
 *LAUSD*  
 *November 2021 - Present*
 - Provided technical support to high school staff and students.
@@ -25,7 +25,7 @@ Seeking a software engineering role in a work environment with opportunities for
 - Performed asset management of organization-owned devices in Remedy.
 - Wrote internal tools in Google Apps Script to aid in inventory asset tracking.
 
-**Technical Writer**
+### Technical Writer
 *Kite*
 *July 2019 - October 2019*
 - Authored detailed Python tutorials covering foundational programming tasks, such as array manipulation with NumPy and list operations, aimed at beginner to intermediate coders.
@@ -33,40 +33,43 @@ Seeking a software engineering role in a work environment with opportunities for
 - Conducted peer reviews of tutorial submissions, enhancing the clarity and educational value of content across the platform.
 
 ## Leadership Experience
-**Warner Center Toastmasters**
-#### Secretary: July 2022-July 2023
+### Warner Center Toastmasters
+#### Secretary
+*July 2022 - June 2023*
 - Took detailed meeting minutes for monthly executive commitee meetings.
-#### Member: July 2021-Present
+#### Member
+*July 2021 - Present*
 - Grown as an individual regarding being comfortable with speaking in crowds.
 - Developed the skills to talk to leadership about professional activities.
 - Improved in abilities to explain complex topics to less-experienced personel.
 - **Accolades:** Rookie of the Year, Best Speaker (3 times), Best Table Topic Speaker (2 times), Best Evaluator
 
 ## Projects
-**Fabflix (Netflix Clone)**
+### Fabflix (Netflix Clone)
 - Developed a web application similar to IMDb with features like movie/TV show lookup, actor information, and user authentication.
 - Implemented Google reCAPTCHA and used AWS for hosting.
 
-**Mini Search Engine**
-- Created a search engine that crawled the UCI.edu domain.
+### Mini Search Engine
+- Created a search engine that crawled the uci.edu domain.
 - Implemented inverted indices, TF-IDF, document vectors, and cosine similarity.
 
-**JavaScript Game Engine**
+### JavaScript Game Engine
 - Developed a rudimentary game engine for a computer graphics class.
 - Created a scene with trees, a car with turning wheels, and a sun that rose and set.
 
-**Reddit Bot (Honest Hearts Bot)**
+### Reddit Bot (Honest Hearts Bot)
 - Developed a bot that commented references to Fallout New Vegas' Honest Hearts DLC on photos of Zion National Park.
 
-**KNN Library**
+### Simple KNN
 - Developed a small library for K-Nearest Neighbors after finding existing libraries difficult to use.
 
 ## Volunteer Experience
-**Operation Gratitude**
+### Operation Gratitude**
 *Oct 2013 - July 2017*
 - Packed care packages and screened letters for service members and first responders.
 
-**Local Library**
+### Collection Inventory Aide
+*Los Angeles Public Library*
 *July 2019 - September 2019*
 - Sorted books and newspapers, labeled them with dates.
 - Recognized for outstanding work in volunteering.
