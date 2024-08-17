@@ -47,6 +47,13 @@ Seeking a software engineering role in a work environment with opportunities for
 - **Accolades:** Rookie of the Year, Best Speaker (3 times), Best Table Topic Speaker (2 times), Best Evaluator
 
 ## Projects
+### Dyetr
+- Spearheaded a team of three in the development of "Dyetr," an Android app for calorie counting, enhancing user engagement through intuitive design.
+- Engineered a robust database using Neo4j, ingesting over 30,000 food items from the USDA dataset to ensure comprehensive nutritional tracking.
+- Innovated a food recommendation engine utilizing Neo4j data science tools, personalizing user experience based on dietary habits.
+- Developed a RESTful API with Flask, featuring eight endpoints, to facilitate efficient data handling and integration.
+- Designed and implemented the Android app's front-end with Java, encompassing four activities to streamline user interactions.
+
 ### Fabflix (Netflix Clone)
 - Developed a web application similar to IMDb with features like movie/TV show lookup, actor information, and user authentication.
 - Implemented Google reCAPTCHA and used AWS for hosting.
