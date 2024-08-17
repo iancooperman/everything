@@ -66,6 +66,13 @@ Seeking a software engineering role in a work environment with opportunities for
 - Developed a small library for K-Nearest Neighbors after finding existing libraries difficult to use.
 
 ## Volunteer Experience
+### Hack for LA
+*Jan 2024 - Present*
+- Contributed to an open-source Github repository for the organization's website, enhancing code quality and functionality.
+- AAutomated the hiding of outdated comments on Pull Requests by extending a GitHub Action, improving workflow efficiency.
+- Facilitated the automated creation of pull requests when new information is added to a Google Sheet via a Google Form, using Google Apps Script, streamlining data integration.
+
+
 ### Operation Gratitude**
 *Oct 2013 - July 2017*
 - Packed care packages and screened letters for service members and first responders.
